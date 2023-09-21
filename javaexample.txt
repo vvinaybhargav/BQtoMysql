@@ -1,2 +1,1 @@
-select * from table1
-ejrfje  table 2323
+sel
