@@ -1,2 +1,3 @@
 sel e
 line2
+line3
