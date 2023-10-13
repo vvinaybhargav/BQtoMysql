@@ -1,3 +1,2 @@
 sele
-qa-select
-qa-query
+master-select
